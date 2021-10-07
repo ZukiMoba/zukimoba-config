@@ -11,7 +11,7 @@
     "title": "NOTIFICATIONS",
     "content": [
       {
-        "is_new": "Wed Oct 06 2021 15:22:23 GMT+0700",
+        "is_new": "Wed Oct 08 2021 15:22:23 GMT+0700",
         "cover": "/images2/logo/vero-logo-03.png",
         "title": "UFIN",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisc",
