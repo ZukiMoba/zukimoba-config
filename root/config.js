@@ -12,7 +12,7 @@
     "content": [
       {
         "is_new": "Wed Oct 08 2021 15:22:23 GMT+0700",
-        "cover": "/images/logo/vero-logo-03.png",
+        "cover": "/images/logos/vero-logo-03.png",
         "title": "UFIN",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisc",
         "time": "Wed Oct 06 2021 15:22:23 GMT+0700",
@@ -21,7 +21,7 @@
       },
       {
         "is_new": "Wed Oct 06 2021 15:22:23 GMT+0700",
-        "cover": "/images/logo/vero-logo-03.png",
+        "cover": "/images/logos/vero-logo-03.png",
         "title": "Vero Garden Play",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisc adipisc adipisc adipisc.",
         "time": "Wed Oct 06 2021 15:19:23 GMT+0700",
@@ -30,7 +30,7 @@
       },
       {
         "is_new": "",
-        "cover": "/images/logo/vero-logo-03.png",
+        "cover": "/images/logos/vero-logo-03.png",
         "title": "Vero market",
         "description": "Vero ipsum 1000 points dolor sit amet, consecte",
         "time": "Wed Oct 05 2021 15:19:23 GMT+0700",
