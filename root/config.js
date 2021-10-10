@@ -44,17 +44,17 @@
       {
         "index": "0",
         "name": "Normal",
-        "cover": "/images/attributes/normal.png"
+        "cover": "https://garden.verofarm.com/images2/attributes/normal.png"
       },
       {
         "index": "1",
         "name": "Advance",
-        "cover": "/images/attributes/advance.png"
+        "cover": "https://garden.verofarm.com/images2/attributes/advance.png"
       },
       {
         "index": "2",
         "name": "Legend",
-        "cover": "/images/attributes/legend.png"
+        "cover": "https://garden.verofarm.com/images2/attributes/legend.png"
       }
     ],
     "levels": [
