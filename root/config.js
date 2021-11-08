@@ -11,10 +11,11 @@
     "title": "NOTIFICATIONS",
     "content": [
       {
+        "id": "1",
         "is_new": "Wed Oct 08 2021 15:22:23 GMT+0700",
-        "cover": "/images/logos/vero-logo-03.png",
+        "cover": "/images/logos/logo-03.png",
         "title": "Marketplace Grand Opening",
-        "description": "Welcome to Vero Marketplace - Start to buy or sell Vero NFT now",
+        "description": "Welcome to Zuki Marketplace - Start to buy or sell Vero NFT now",
         "time": "Sun Oct 10 2021 21:00:00 GMT+0700",
         "link": "",
         "target": ""
