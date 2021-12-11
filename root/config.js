@@ -16,7 +16,7 @@
         "cover": "/images/logos/logo.png",
         "title": "Marketplace Grand Opening",
         "description": "Welcome to Zuki Marketplace - Start to buy or sell Zuki NFT now",
-        "time": "Friday December 3, 2021, 11:20:24 AM",
+        "time": "Wednesday December 8, 2021, 15:00:00 UTC",
         "link": "",
         "link_title": "",
         "target": ""
