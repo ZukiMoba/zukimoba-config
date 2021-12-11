@@ -22,5 +22,10 @@
         "target": ""
       }
     ]
+  },
+  "farm": {
+    "config": {
+      "ZPPrice": 1
+    }
   }
 }
