@@ -29,8 +29,8 @@
     }
   },
  "market": {
-    "acceptBuy": 1,
-    "acceptSale": 1
-    "acceptCancel": 1
+    "disableBuy": 1,
+    "disableSale": 1
+    "disableCancel": 1
   }
 }
