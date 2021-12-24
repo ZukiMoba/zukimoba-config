@@ -29,7 +29,7 @@
     }
   },
  "market": {
-    "disableBuy": 1,
+    "disableBuy": 0,
     "disableSale": 1,
     "disableCancel": 0
   }
