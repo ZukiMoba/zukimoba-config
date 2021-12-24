@@ -29,6 +29,7 @@
     }
   },
  "market": {
+    "acceptBuy": 1,
     "acceptSale": 1
   }
 }
