@@ -31,5 +31,6 @@
  "market": {
     "acceptBuy": 1,
     "acceptSale": 1
+    "acceptCancel": 1
   }
 }
