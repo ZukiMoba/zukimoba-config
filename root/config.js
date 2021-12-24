@@ -27,5 +27,8 @@
     "config": {
       "ZPPrice": 1
     }
+  },
+ "market": {
+    "acceptSale": 1
   }
 }
