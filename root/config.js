@@ -11,28 +11,6 @@
     "title": "NOTIFICATIONS",
     "content": [
       {
-        "id": 6,
-        "title": "Update Farming v2 add to news Pool ZUKI-BUSD and ZUKI-USDT",
-        "description": "Welcome to Farming v2 - Start Farming to Earn ZP Now",
-        "cover": "/images/logos/logo.png",
-        "is_new": " Monday December 27, 2021 5:00:00 UTC ",
-        "time": " Monday December 27, 2021 5:00:00 UTC ",
-        "link": "",
-        "link_title": "",
-        "target": ""
-      },
-      {
-        "id": 5,
-        "title": "Maintaining marketplace to upgrade v2",
-        "description": "Please don’t offer to sell any NFTs on marketplace during maintenance ",
-        "cover": "/images/logos/logo.png",
-        "is_new": "Saturday December 25, 2021 16:00:00 UTC to Tuesday January 04,2021 16:00:00 UTC",
-        "time": "Saturday December 25, 2021 16:00:00 UTC to Tuesday January 04,2021 16:00:00 UTC",
-        "link": "",
-        "link_title": "",
-        "target": ""
-      },
-      {
         "id": 4,
         "title": "Opening Round 2 of ZP Shop ",
         "description": "Welcome to ZP Shop - Start to buy and open the Lucky Chest to receive NFT pieces now",
