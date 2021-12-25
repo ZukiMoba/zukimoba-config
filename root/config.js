@@ -11,7 +11,7 @@
     "title": "NOTIFICATIONS",
     "content": [
         {
-        "id": "6"
+        "id": 6,
         "title": "Update Farming v2 add to news Pool ZUKI-BUSD and ZUKI-USDT",
         "description": "Welcome to Farming v2 - Start Farming to Earn ZP Now",
         "cover": "/images/logos/logo.png",
@@ -22,7 +22,7 @@
         "target": ""
       },
         {
-        "id": "5"
+        "id": 5,
         "title": "Maintaining marketplace to upgrade v2",
         "description": "Please don’t offer to sell any NFTs on marketplace during maintenance ",
         "cover": "/images/logos/logo.png",
@@ -33,7 +33,7 @@
         "target": ""
       },
        {
-        "id": "4",
+        "id": 4,
         "title": "Opening Round 2 of ZP Shop ",
         "description": "Welcome to ZP Shop - Start to buy and open the Lucky Chest to receive NFT pieces now",
         "cover": "/images/logos/logo.png",
@@ -44,7 +44,7 @@
         "target": ""
       },
        {
-        "id": "3",
+        "id": 3,
         "title": "Update farming v2 add to new Pools ZUKI-BNB",
         "description": "Welcome to Farming v2 - Start to Farming to Earn ZP Now",
         "cover": "/images/logos/logo.png",
@@ -55,7 +55,7 @@
         "target": ""
       },
        {
-        "id": "2",
+        "id": 2,
         "title": "ZP Shop Grand Opening ",
         "description": "Welcome to ZP Shop - Start to buy and open the Lucky Chest to receive NFT pieces now",
         "cover": "/images/logos/logo.png",
@@ -66,7 +66,7 @@
         "target": ""
       },
       {
-        "id": "1",
+        "id": 1,
         "title": "Farming LPs ZUKI-BNB Grand Opening",
         "description": "Welcome to Zuki Farming - Start Farming to Earn ZP Now",
         "cover": "/images/logos/logo.png",
