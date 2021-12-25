@@ -12,11 +12,11 @@
     "content": [
       {
         "id": "1",
-        "is_new": "Wed Oct 08 2021 15:22:23 GMT+0700",
+        "is_new": "Wednesday December 15, 2021 5:00:00 UTC",
         "cover": "/images/logos/logo.png",
-        "title": "Marketplace Grand Opening",
-        "description": "Welcome to Zuki Marketplace - Start to buy or sell Zuki NFT now",
-        "time": "Wednesday December 8, 2021, 15:00:00 UTC",
+        "title": "Farming LPs ZUKI-BNB Grand Opening",
+        "description": "Welcome to Zuki Farming - Start Farming to Earn ZP Now",
+        "time": "Wednesday December 15, 2021 5:00:00 UTC",
         "link": "",
         "link_title": "",
         "target": ""
