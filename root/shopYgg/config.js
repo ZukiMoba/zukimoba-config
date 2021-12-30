@@ -1,7 +1,7 @@
 {
   "zpPriceDollar": 80,
   "round": {
-    "start":             "Wed Dec 29 2021 14:00:00 GMT+0700 ",
-    "end_round_1":       "Wed Dec 29 2021 16:20:00 GMT+0700 "
+    "start":             "Dec 30 2021 05:00:00 GMT",
+    "end_round_1":       "Jan 05 2022 05:00:00 GMT"
   }
 }
