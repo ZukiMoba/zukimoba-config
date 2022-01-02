@@ -1,4 +1,28 @@
 {
   "start":             "Dec 24 2021 16:00:00 GMT",
-  "end_round_1":       "Dec 31 2021 16:00:00 GMT"
+  "end_round_1":       "Dec 31 2021 16:00:00 GMT",
+  "last_sale": 400,
+  "round_history": [
+    {
+      "id": 2,
+      "title": "Upcoming",
+      "description": "2000 Box price 100 ZP",
+      "time": "(From 5:00 UTC January 3, 2022 - to 5:00 UTC January 10, 2022)",
+      "status": "wait"
+    },
+    {
+      "id": 1,
+      "title": "Ended",
+      "description": "1000 Box price 80 ZP",
+      "time": "(From 16:00 UTC Dec 24, 2021 - to 16:00 UTC Dec 31, 2021)",
+      "status": "finish"
+    },
+    {
+      "id": 0,
+      "title": "Ended",
+      "description": "500 Box price 40 ZP",
+      "time": "(From 5:00 UTC Dec 19, 2021 - to 5:00 UTC Dec 24, 2021)",
+      "status": "finish"
+    }
+  ]
 }
