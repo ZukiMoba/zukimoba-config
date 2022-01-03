@@ -5,10 +5,10 @@
   "round_history": [
     {
       "id": 2,
-      "title": "Upcoming",
+      "title": "In Process",
       "description": "2000 Box price 100 ZP",
       "time": "(From 5:00 UTC January 3, 2022 - to 5:00 UTC January 10, 2022)",
-      "status": "wait"
+      "status": "process"
     },
     {
       "id": 1,
