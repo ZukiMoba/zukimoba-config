@@ -2,12 +2,7 @@
   "start":             "Jan 08 2022 05:00:00 GMT",
   "end_round_1":       "Jan 15 2022 05:00:00 GMT",
   "last_sale": 3500,
-  "percent_lucky": {
-    "normal": "70%",
-    "ordinary": "15%",
-    "rare": "10%",
-    "veryRare": "5%"
-  },
+  "percent_lucky": ["70%", "15%", "10%", "5%"],
   "round_history": [
     {
       "id": 2,
