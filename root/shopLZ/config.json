@@ -5,6 +5,13 @@
   "percent_lucky": ["70%", "15%", "10%", "5%"],
   "round_history": [
     {
+      "id": 4,
+      "title": "Waiting",
+      "description": "5000 Box price 100 ZP",
+      "time": "(From 5:00 UTC Feb 11, 2022 - to 5:00 UTC Feb 18, 2022)",
+      "status": "wait"
+    },
+    {
       "id": 3,
       "title": "Ended",
       "description": "5000 Box price 100 ZP",
