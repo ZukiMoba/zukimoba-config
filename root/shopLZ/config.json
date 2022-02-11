@@ -6,10 +6,10 @@
   "round_history": [
     {
       "id": 4,
-      "title": "Waiting",
+      "title": "In Progress",
       "description": "3000 Box price 150 ZP",
       "time": "(From 5:00 UTC Feb 11, 2022 - to 5:00 UTC Feb 18, 2022)",
-      "status": "wait"
+      "status": "process"
     },
     {
       "id": 3,
