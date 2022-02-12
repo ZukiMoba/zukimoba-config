@@ -1,0 +1,32 @@
+{
+    "airdrop-nft": {
+      "contract": "0xCE3a2aE01BAc291c3DcA8270EC04818979add1B8",
+      "title": "TREASURE CHEST FOR WHITELIST AIRDROP",
+      "description": "NFTs - Claim Blindbox",
+      "ZPPrice": 0,
+      "USDPrice": 0,
+      "image": "/images/shop-wrapper-bg.png",
+      "isCheckWhitelist": 1,
+      "countdown": {
+        "start": "Jan 25 2022 16:00:00 GMT",
+        "end_round_1": "Nov 30 2022 16:00:00 GMT"
+      }
+    },
+   "airdrop-cmc": {
+      "contract": "0xa5013214Ca912233918025209044f93ec4c32c6d",
+      "title": "TREASURE CHEST FOR WHITELIST AIRDROP",
+      "description": "NFTs - Claim Blindbox",
+      "button": {
+         "label": "Join Airdrop",
+         "link": "https://url.zukimoba.com/Airdrop-CMC"
+      },
+      "ZPPrice": 0,
+      "USDPrice": 50,
+      "image": "/images/shop-wrapper-bg.png",
+      "isCheckWhitelist": 1,
+      "countdown": {
+        "start": "Mar 16 2022 05:00:00 GMT",
+        "end_round_1": "Dec 12 2022 23:00:00 GMT"
+      }
+    }
+}
