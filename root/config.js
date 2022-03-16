@@ -1,6 +1,6 @@
 {
   "banner": {
-    "is_active": true,
+    "is_active": false,
     "accept_close": true,
     "img_url": "/images/banner.png",
     "link_to": "https://airdrop.zukimoba.com/airdrop-cmc"
