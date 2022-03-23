@@ -1,7 +1,7 @@
 {
   "start":             "Apr 07 2022 05:00:00 GMT",
   "end_round_1":       "Apr 14 2022 05:00:00 GMT",
-  "last_sale": 0,
+  "last_sale": 2,
   "percent_lucky": ["70%", "15%", "10%", "5%"],  
   "title_note": "In Progress",
   "status_not": "process",
