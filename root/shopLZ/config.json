@@ -3,6 +3,8 @@
   "end_round_1":       "Apr 14 2022 05:00:00 GMT",
   "last_sale": 0,
   "percent_lucky": ["70%", "15%", "10%", "5%"],  
+  "title_note": "In Progress",
+  "status_not": "process",
   "round_history": [
   {
     "id": 24,
@@ -150,11 +152,11 @@
   },
   {
     "id": 6,
-    "title": "Ended", // "In Progress"
+    "title": "Ended",
     "price": 200,
     "description": "3000 Box price 200 ZP",
     "time": "(From UTC 5:00 UTC Mar 23, 2022 to 5:00 UTC Mar 30,2022)",
-    "status": "finish" // process
+    "status": "finish"
   },
   {
     "id": 5,
