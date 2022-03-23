@@ -1,43 +1,201 @@
 {
-  "start":             "Feb 11 2022 05:00:00 GMT",
-  "end_round_1":       "Feb 18 2022 05:00:00 GMT",
-  "last_sale": 8241,
-  "percent_lucky": ["70%", "15%", "10%", "5%"],
+  "start":             "Apr 07 2022 05:00:00 GMT",
+  "end_round_1":       "Apr 14 2022 05:00:00 GMT",
+  "last_sale": 0,
+  "percent_lucky": ["70%", "15%", "10%", "5%"],  
   "round_history": [
-    {
-      "id": 4,
-      "title": "Ended",
-      "description": "3000 Box price 150 ZP",
-      "time": "(From 5:00 UTC Feb 11, 2022 - to 5:00 UTC Feb 18, 2022)",
-      "status": "finish"
-    },
-    {
-      "id": 3,
-      "title": "Ended",
-      "description": "5000 Box price 100 ZP",
-      "time": "(From 5:00 UTC January 8, 2022 - to 5:00 UTC January 15, 2022)",
-      "status": "finish"
-    },
-    {
-      "id": 2,
-      "title": "Ended",
-      "description": "2000 Box price 100 ZP",
-      "time": "(From 5:00 UTC January 3, 2022 - to 5:00 UTC January 10, 2022)",
-      "status": "finish"
-    },
-    {
-      "id": 1,
-      "title": "Ended",
-      "description": "1000 Box price 80 ZP",
-      "time": "(From 16:00 UTC Dec 24, 2021 - to 16:00 UTC Dec 31, 2021)",
-      "status": "finish"
-    },
-    {
-      "id": 0,
-      "title": "Ended",
-      "description": "500 Box price 40 ZP",
-      "time": "(From 5:00 UTC Dec 19, 2021 - to 5:00 UTC Dec 24, 2021)",
-      "status": "finish"
-    }
-  ]
+  {
+    "id": 24,
+    "title": "Estimate",
+    "price": 17000,
+    "description": "3000 Box price 17000 ZP",
+    "time": "(From UTC 5:00 UTC Dec 21, 2022 to 5:00 UTC Dec 28,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 23,
+    "title": "Estimate",
+    "price": 14000,
+    "description": "3000 Box price 14000 ZP",
+    "time": "(From UTC 5:00 UTC Dec 06, 2022 to 5:00 UTC Dec 13,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 22,
+    "title": "Estimate",
+    "price": 12000,
+    "description": "3000 Box price 12000 ZP",
+    "time": "(From UTC 5:00 UTC Nov 21, 2022 to 5:00 UTC Nov 28,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 21,
+    "title": "Estimate",
+    "price": 10000,
+    "description": "3000 Box price 10000 ZP",
+    "time": "(From UTC 5:00 UTC Nov 05, 2022 to 5:00 UTC Nov 12,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 20,
+    "title": "Estimate",
+    "price": 8500,
+    "description": "3000 Box price 8500 ZP",
+    "time": "(From UTC 5:00 UTC Oct 21, 2022 to 5:00 UTC Oct 28,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 19,
+    "title": "Estimate",
+    "price": 7000,
+    "description": "3000 Box price 7000 ZP",
+    "time": "(From UTC 5:00 Oct Jun 06, 2022 to 5:00 UTC Oct 13,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 18,
+    "title": "Estimate",
+    "price": 5500,
+    "description": "3000 Box price 5500 ZP",
+    "time": "(From UTC 5:00 UTC Sep 21, 2022 to 5:00 UTC Sep 28,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 17,
+    "title": "Estimate",
+    "price": 4500,
+    "description": "3000 Box price 4500 ZP",
+    "time": "(From UTC 5:00 UTC Sep 06, 2022 to 5:00 UTC Sep 13,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 16,
+    "title": "Estimate",
+    "price": 3500,
+    "description": "3000 Box price 3500 ZP",
+    "time": "(From UTC 5:00 UTC Aug 22, 2022 to 5:00 UTC Aug 29,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 15,
+    "title": "Estimate",
+    "price": 2700,
+    "description": "3000 Box price 2700 ZP",
+    "time": "(From UTC 5:00 UTC Aug 06, 2022 to 5:00 UTC Aug 13,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 14,
+    "title": "Estimate",
+    "price": 2200,
+    "description": "3000 Box price 2200 ZP",
+    "time": "(From UTC 5:00 UTC July 22, 2022 to 5:00 UTC July 29,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 13,
+    "title": "Estimate",
+    "price": 1800,
+    "description": "3000 Box price 1800 ZP",
+    "time": "(From UTC 5:00 UTC July 07, 2022 to 5:00 UTC July 14,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 12,
+    "title": "Estimate",
+    "price": 1500,
+    "description": "3000 Box price 1500 ZP",
+    "time": "(From UTC 5:00 UTC Jun 22, 2022 to 5:00 UTC Jun 29,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 11,
+    "title": "Estimate",
+    "price": 1200,
+    "description": "3000 Box price 1200 ZP",
+    "time": "(From UTC 5:00 UTC Jun 07, 2022 to 5:00 UTC Jun 14,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 10,
+    "title": "Estimate",
+    "price": 800,
+    "description": "3000 Box price 800 ZP",
+    "time": "(From UTC 5:00 UTC May 23, 2022 to 5:00 UTC May 30,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 9,
+    "title": "Estimate",
+    "price": 500,
+    "description": "3000 Box price 500 ZP",
+    "time": "(From UTC 5:00 UTC May 07, 2022 to 5:00 UTC May 14,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 8,
+    "title": "Estimate",
+    "price": 300,
+    "description": "3000 Box price 300 ZP",
+    "time": "(From UTC 5:00 UTC Apr 22, 2022 to 5:00 UTC Apr 29,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 7,
+    "title": "Upcoming",
+    "price": 250,
+    "description": "3000 Box price 250 ZP",
+    "time": "(From UTC 5:00 UTC Apr 07, 2022 to 5:00 UTC Apr 14,2022)",
+    "status": "wait"
+  },
+  {
+    "id": 6,
+    "title": "In Progress",
+    "price": 200,
+    "description": "3000 Box price 200 ZP",
+    "time": "(From UTC 5:00 UTC Mar 23, 2022 to 5:00 UTC Mar 30,2022)",
+    "status": "process"
+  },
+  {
+    "id": 5,
+    "title": "Ended",
+    "price": 150,
+    "description": "3000 Box price 150 ZP",
+    "time": "(From 5:00 UTC Feb 11, 2022 - to 5:00 UTC Feb 18, 2022)",
+    "status": "finish"
+  },
+  {
+    "id": 4,
+    "title": "Ended",
+    "price": 100,
+    "description": "5000 Box price 100 ZP",
+    "time": "(From 5:00 UTC January 8, 2022 - to 5:00 UTC January 15, 2022)",
+    "status": "finish"
+  },
+  {
+    "id": 3, 
+    "title": "Ended",
+    "price": 100,
+    "description": "2000 Box price 100 ZP",
+    "time": "(From 5:00 UTC January 3, 2022 - to 5:00 UTC January 10, 2022)",
+    "status": "finish"
+  },
+  {
+    "id": 2,
+    "title": "Ended",
+    "price": 80,
+    "description": "1000 Box price 80 ZP",
+    "time": "(From 16:00 UTC Dec 24, 2021 - to 16:00 UTC Dec 31, 2021)",
+    "status": "finish"
+  },
+  {
+    "id": 1,
+    "title": "Ended",
+    "price": 40,
+    "description": "500 Box price 40 ZP",
+    "time": "(From 5:00 UTC Dec 19, 2021 - to 5:00 UTC Dec 24, 2021)",
+    "status": "finish"
+  }
+]
+
 }
