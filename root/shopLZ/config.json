@@ -150,11 +150,11 @@
   },
   {
     "id": 6,
-    "title": "In Progress",
+    "title": "Ended", // "In Progress"
     "price": 200,
     "description": "3000 Box price 200 ZP",
     "time": "(From UTC 5:00 UTC Mar 23, 2022 to 5:00 UTC Mar 30,2022)",
-    "status": "process"
+    "status": "finish" // process
   },
   {
     "id": 5,
