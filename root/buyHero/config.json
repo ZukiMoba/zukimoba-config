@@ -1,0 +1,45 @@
+{
+  "zpPriceDollar": 80,
+  "last_sale": 0,
+  "round_config": {
+    "start": "Dec 30 2021 05:00:00 GMT",
+    "end_round_1": "Jan 05 2022 05:00:00 GMT"
+  },
+  "chest_data": [
+    {
+      "id": 0,
+      "type": "diamond",
+      "avatar": "/images/chest/diamond-chest.gif",
+      "NFTItem": [
+        {
+          "id": 1,
+          "avatar": "/videos/zukis/normal.mp4",
+          "type": "normal",
+          "rate": 94.97,
+          "probability": 94.97
+        },
+        {
+          "id": 2,
+          "avatar": "/videos/zukis/ordinary.mp4",
+          "type": "ordinary",
+          "rate": 5,
+          "probability": 5
+        },
+        {
+          "id": 3,
+          "avatar": "/videos/zukis/rare.mp4",
+          "type": "rare",
+          "rate": 0.02,
+          "probability": 0.02
+        },
+        {
+          "id": 4,
+          "avatar": "/videos/zukis/nataka.mp4",
+          "type": "very rare",
+          "rate": 0.01,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}
