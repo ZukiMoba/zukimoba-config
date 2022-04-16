@@ -73,9 +73,9 @@
     }
   },
  "market": {
-    "disableBuy": 1,
-    "disableSale": 1,
-    "disableCancel": 1,
-    "disableSend": 1
+    "disableBuy": 0,
+    "disableSale": 0,
+    "disableCancel": 0,
+    "disableSend": 0
   }
 }
