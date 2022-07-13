@@ -12,28 +12,28 @@
           "id": 1,
           "avatar": "/videos/piece/normal.mp4",
           "type": "normal",
-          "rate": 70,
+          "rate": 93.9,
           "probability": 95.01
         },
         {
           "id": 2,
           "avatar": "/videos/piece/ordinary.mp4",
           "type": "ordinary",
-          "rate": 15,
+          "rate": 5,
           "probability": 10
         },
         {
           "id": 3,
           "avatar": "/videos/piece/rare.mp4",
           "type": "rare",
-          "rate": 10,
+          "rate": 1,
           "probability": 5
         },
         {
           "id": 4,
           "avatar": "/videos/piece/veryRare.mp4",
           "type": "very rare",
-          "rate": 5,
+          "rate": 0.1,
           "probability": 0.01
         }
       ]
